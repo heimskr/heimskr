@@ -7,7 +7,7 @@ I'm Kai Tamkun, a Computer Engineering master's student at UCSC.
 - [ll2w](https://github.com/heimskr/ll2w): a standalone half-compiler that compiles LLVM intermediate representation into Why bytecode.
 - [Algiz](https://github.com/heimskr/algiz): an HTTP 1.1 (+ WebSockets) server with a plugin architecture.
 - [C+-](https://github.com/heimskr/c--): a language with more features than C and fewer features than C++ that compiles to Why bytecode.
-- [Wahtwo](https://github.com/heimskr/wahtwo): an abstraction layer that unifies inotify and FSEvents under a common C++ interface.
+- [Wahtwō](https://github.com/heimskr/wahtwo): an abstraction layer that unifies inotify and FSEvents under a common C++ interface.
 - [Spjalla](https://github.com/heimskr/spjalla): a terminal-based IRC client.
 - [Reden](https://github.com/heimskr/reden): a GTK 4 IRC client.
 - [PingPong](https://github.com/heimskr/pingpong): a C++ IRC library used in Spjalla and Reden.
