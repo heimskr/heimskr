@@ -22,3 +22,6 @@ I'm Kai Tamkun, a Computer Engineering master's student at UCSC.
 - [RV32-Verilog](https://github.com/heimskr/RV32-verilog): a GTK 4 interface for Fernsicles's 32-bit RISC-V simulator.
 - [Serial](https://github.com/heimskr/serial): a simple serial monitor.
 - [Strender](https://github.com/heimskr/strender): a C++ library for hierarchical generation of strings.
+
+#### Currently working on
+- [game3](https://github.com/heimskr/game3)
