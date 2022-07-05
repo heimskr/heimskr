@@ -15,7 +15,7 @@ I'm Kai Tamkun, a Computer Engineering master's student at UCSC.
 - [Formicine](https://github.com/heimskr/formicine): a C++ library for ANSI terminal escapes used in Haunted.
 - [Thurisaz](https://github.com/heimskr/thurisaz): a kernel for Why written in C++. Abandoned due to performance limitations.
 - [Thorn](https://github.com/heimskr/thorn): a kernel for x86_64 written in C++. On hold because AHCI is tricky.
-- [Armaz](https://github.com/heimskr/armaz): a kernel for Raspberry Pi 4 written in C++. On hold because ARMv9 paging is tricky.
+- [Armaz](https://github.com/heimskr/armaz): a kernel for Raspberry Pi 4 written in C++. On hold because ARMv8 paging is tricky.
 - [Untitled Game 2](https://github.com/heimskr/game2): a simple resource collection and trading game for GTK 4.
 - [Untitled Game 3](https://github.com/heimskr/game3): another approach to the previous game's general idea, this time with actual graphics!
 - [Probability Chess](https://github.com/heimskr/probchess) ([demo](http://heimskr.gay/chess)): a hastily made implementation of my chance-based chess variant.
