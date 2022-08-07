@@ -24,4 +24,4 @@ I'm Kai Tamkun, a Computer Engineering master's student at UCSC.
 - [Strender](https://github.com/heimskr/strender): a C++ library for hierarchical generation of strings.
 
 #### Currently working on
-- [game3](https://github.com/heimskr/game3)
+- Master's thesis
