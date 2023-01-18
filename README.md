@@ -26,5 +26,4 @@ I'm Kai Tamkun, a Computer Engineering master's student at UCSC.
 - [mask](https://github.com/heimskr/mask): a C++ library for controlling Chemion glasses.
 
 #### Currently working on
-- Master's thesis
-  - [C+-](https://github.com/heimskr/c--): adding typed assembly support
+- Master's project
