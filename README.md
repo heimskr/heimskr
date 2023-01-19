@@ -6,6 +6,7 @@ I'm Kai Tamkun, a Computer Engineering master's student at UCSC.
 - [Why](https://github.com/heimskr/why): an instruction set architecture, including tools like an assembler, linker and VM.
 - [ll2w](https://github.com/heimskr/ll2w): a standalone half-compiler that compiles LLVM intermediate representation into Why bytecode.
 - [BME680 Reader](https://github.com/heimskr/flipperzero-bme680): a Flipper Zero application to read data from BME680 sensors.
+- [SCD30 Reader](https://github.com/heimskr/flipperzero-scd30): a Flipper Zero application to read data from SCD30 sensors.
 - [Algiz](https://github.com/heimskr/algiz): an HTTP 1.1 (+ WebSockets) server with a plugin architecture.
 - [C+-](https://github.com/heimskr/c--): a language with more features than C and fewer features than C++ that compiles to Why bytecode.
 - [Wahtwō](https://github.com/heimskr/wahtwo): an abstraction layer that unifies inotify and FSEvents under a common C++ interface.
@@ -27,3 +28,4 @@ I'm Kai Tamkun, a Computer Engineering master's student at UCSC.
 
 #### Currently working on
 - Master's project
+- Another thing
