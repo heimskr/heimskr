@@ -1,6 +1,6 @@
 ## Heimskr 😎
 
-I'm Kai Tamkun, a Computer Engineering master's student at UCSC.
+I'm Kai Tamkun.
 
 #### Projects
 - [Why](https://github.com/heimskr/why): an instruction set architecture, including tools like an assembler, linker and VM.
@@ -28,5 +28,4 @@ I'm Kai Tamkun, a Computer Engineering master's student at UCSC.
 - [SCD30 Reader](https://github.com/heimskr/flipperzero-scd30): a Flipper Zero application to read data from SCD30 sensors.
 
 #### Currently working on
-- Master's project
-- Game3
+- [Game3](https://github.com/heimskr/game3)
