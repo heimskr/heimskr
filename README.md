@@ -2,7 +2,7 @@
 
 I'm Kai Tamkun.
 
-#### Projects
+### Projects
 - [Why](https://github.com/heimskr/why): an instruction set architecture, including tools like an assembler, linker and VM.
 - [ll2w](https://github.com/heimskr/ll2w): a standalone half-compiler that compiles LLVM intermediate representation into Why bytecode.
 - [Untitled Game 2](https://github.com/heimskr/game2): a simple resource collection and trading game for GTK 4.
@@ -26,3 +26,7 @@ I'm Kai Tamkun.
 - [mask](https://github.com/heimskr/mask): a C++ library for controlling Chemion glasses.
 - [BME680 Reader](https://github.com/heimskr/flipperzero-bme680): a Flipper Zero application to read data from BME680 sensors.
 - [SCD30 Reader](https://github.com/heimskr/flipperzero-scd30): a Flipper Zero application to read data from SCD30 sensors.
+
+#### Currently working on:
+
+- Hake (what is it? who knows)
