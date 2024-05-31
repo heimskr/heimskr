@@ -19,7 +19,7 @@ I'm Kai Tamkun.
 - [Thurisaz](https://github.com/heimskr/thurisaz): a kernel for Why written in C++.
 - [Thorn](https://github.com/heimskr/thorn): a kernel for x86_64 written in C++.
 - [Armaz](https://github.com/heimskr/armaz): a kernel for Raspberry Pi 4 written in C++.
-- [Probability Chess](https://github.com/heimskr/probchess) ([demo](http://heimskr.gay/chess)): an implementation of my chance-based chess variant.
+- [Probability Chess](https://github.com/heimskr/probchess): an implementation of my chance-based chess variant.
 - [RV32-Verilog](https://github.com/heimskr/RV32-verilog): a GTK 4 interface for Fernsicles's 32-bit RISC-V simulator.
 - [Serial](https://github.com/heimskr/serial): a simple serial monitor.
 - [Strender](https://github.com/heimskr/strender): a C++ library for hierarchical generation of strings.
