@@ -26,7 +26,3 @@ I'm Kai Tamkun.
 - [mask](https://github.com/heimskr/mask): a C++ library for controlling Chemion glasses.
 - [BME680 Reader](https://github.com/heimskr/flipperzero-bme680): a Flipper Zero application to read data from BME680 sensors.
 - [SCD30 Reader](https://github.com/heimskr/flipperzero-scd30): a Flipper Zero application to read data from SCD30 sensors.
-
-#### Currently working on:
-
-- Hake (what is it? who knows)
