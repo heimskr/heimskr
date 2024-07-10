@@ -6,7 +6,7 @@ I'm Kai Tamkun.
 - [Why](https://github.com/heimskr/why): an instruction set architecture, including tools like an assembler, linker and VM.
 - [ll2w](https://github.com/heimskr/ll2w): a standalone half-compiler that compiles LLVM intermediate representation into Why bytecode.
 - [Untitled Game 2](https://github.com/heimskr/game2): a simple resource collection and trading game for GTK 4.
-- [Untitled Game 3](https://github.com/heimskr/game3): another approach to the previous game's general idea, this time with actual graphics!
+- [game3](https://github.com/heimskr/game3): another approach to the previous game's general idea, this time with actual graphics!
 - [wavegen](https://github.com/heimskr/wavegen): implementations of the NES and Game Boy APUs in Chisel3, along with text and graphics.
 - [Algiz](https://github.com/heimskr/algiz): an HTTP 1.1 (+ WebSockets) server with a plugin architecture.
 - [C+-](https://github.com/heimskr/c--): a language with a feature set between C and C++ that compiles to Why bytecode.
