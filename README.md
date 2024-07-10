@@ -26,3 +26,4 @@ I'm Kai Tamkun.
 - [mask](https://github.com/heimskr/mask): a C++ library for controlling Chemion glasses.
 - [BME680 Reader](https://github.com/heimskr/flipperzero-bme680): a Flipper Zero application to read data from BME680 sensors.
 - [SCD30 Reader](https://github.com/heimskr/flipperzero-scd30): a Flipper Zero application to read data from SCD30 sensors.
+- [Mead](https://github.com/heimskr/mead): a successor to C+- that compiles to LLVM IR.
