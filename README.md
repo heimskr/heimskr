@@ -24,6 +24,10 @@ I'm Kai Tamkun.
 - [Serial](https://github.com/heimskr/serial): a simple serial monitor.
 - [Strender](https://github.com/heimskr/strender): a C++ library for hierarchical generation of strings.
 - [mask](https://github.com/heimskr/mask): a C++ library for controlling Chemion glasses.
-- [BME680 Reader](https://github.com/heimskr/flipperzero-bme680): a Flipper Zero application to read data from BME680 sensors.
-- [SCD30 Reader](https://github.com/heimskr/flipperzero-scd30): a Flipper Zero application to read data from SCD30 sensors.
-- [Mead](https://github.com/heimskr/mead): a successor to C+- that compiles to LLVM IR.
+- [BME680 Reader](https://github.com/heimskr/flipperzero-bme680): an old Flipper Zero application to read data from BME680 sensors. Unmaintained.
+- [SCD30 Reader](https://github.com/heimskr/flipperzero-scd30): an old Flipper Zero application to read data from SCD30 sensors. Unmaintained.
+- [Mead](https://github.com/heimskr/mead): a successor to C+- that compiles to LLVM IR. (very early in development)
+
+#### Currently working on:
+
+- [game3](https://github.com/heimskr/game3), opengl_gui branch
