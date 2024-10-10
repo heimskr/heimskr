@@ -30,4 +30,4 @@ I'm Kai Tamkun.
 
 #### Currently working on:
 
-- [game3](https://github.com/heimskr/game3), opengl_gui branch
+- [game3](https://github.com/heimskr/game3)
