@@ -30,4 +30,7 @@ I'm Kai Tamkun.
 
 #### Currently working on:
 
-- [game3](https://github.com/heimskr/game3)
+- [ll2w](https://github.com/heimskr/ll2w)
+- [Why](https://github.com/heimskr/why)
+- [Thurisaz](https://github.com/heimskr/thurisaz)
+- 
