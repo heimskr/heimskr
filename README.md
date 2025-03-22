@@ -14,6 +14,8 @@ I'm Kai Tamkun.
 - [Thurisaz](https://github.com/heimskr/thurisaz): a kernel for Why written in C++.
 - [Thorn](https://github.com/heimskr/thorn): a kernel for x86_64 written in C++.
 
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@heimskr/fc17dd1f-fcda-401e-9197-3fb68e70dbaa.svg" /></a>
+
 ### Other projects
 - [Untitled Game 2](https://github.com/heimskr/game2): a simple resource collection and trading game for GTK 4.
 - [Reden](https://github.com/heimskr/reden): a GTK 4 IRC client.
@@ -31,6 +33,4 @@ I'm Kai Tamkun.
 - [Mead](https://github.com/heimskr/mead): a successor to C+- that compiles to LLVM IR. (very early in development)
 
 #### Currently working on:
-- [ll2w](https://github.com/heimskr/ll2w)
-- [Why](https://github.com/heimskr/why)
-- [Thurisaz](https://github.com/heimskr/thurisaz)
+- [game3](https://github.com/heimskr/game3)
